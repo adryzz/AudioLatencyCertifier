@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "AudioLatencyCertifier.sln",
+    "projects": [
+      "AudioLatencyCertifier.Game\\AudioLatencyCertifier.Game.csproj",
+      "AudioLatencyCertifier.Resources\\AudioLatencyCertifier.Resources.csproj",
+      "AudioLatencyCertifier.iOS\\AudioLatencyCertifier.iOS.csproj"
+    ]
+  }
+}
